@@ -61,3 +61,10 @@
 [16Dec2024 08:20:48.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [d14k: Gave 1 [Command Block] to d14k]
 [16Dec2024 08:21:12.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [d14k: Set the time to 1000]
 [16Dec2024 08:25:04.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [d14k: Created new objective [ticks]]
+[16Dec2024 08:25:33.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [d14k: Created new objective [segundos]]
+[16Dec2024 08:25:40.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [d14k: Created new objective [minutos]]
+[16Dec2024 08:29:06.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [d14k: Config for minecraft of type SERVER not found]
+[16Dec2024 08:29:16.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[16Dec2024 08:29:16.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: command block<--[HERE]
+[16Dec2024 08:29:23.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[16Dec2024 08:29:23.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: command block true<--[HERE]
