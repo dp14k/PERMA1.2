@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2024-12-14 08:53:10 +0000",
+      "minecraft:savanna": "2024-12-14 08:52:58 +0000",
+      "minecraft:plains": "2024-12-14 08:53:01 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

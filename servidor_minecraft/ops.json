@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "6dade303-febf-385d-a9fb-c138bfd2b4b0",
+    "name": "dp14k",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "014dcd05-7755-3f45-be43-19551ccbc717",
+    "name": "d14k",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
