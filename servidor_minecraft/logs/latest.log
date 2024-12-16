@@ -68,3 +68,17 @@
 [16Dec2024 08:29:16.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: command block<--[HERE]
 [16Dec2024 08:29:23.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [16Dec2024 08:29:23.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: command block true<--[HERE]
+[16Dec2024 08:36:31.353] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: d14k lost connection: Disconnected
+[16Dec2024 08:36:31.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: d14k left the game
+[16Dec2024 08:36:31.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Dec2024 08:36:31.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Dec2024 08:36:31.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Dec2024 08:36:31.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Dec2024 08:36:31.991] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Dec2024 08:36:31.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Dec2024 08:36:31.993] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Dec2024 08:36:31.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Dec2024 08:36:31.994] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Dec2024 08:36:32.009] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Dec2024 08:36:32.029] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Dec2024 08:36:32.033] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
